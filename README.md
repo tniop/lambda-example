@@ -1,5 +1,6 @@
 ## AWS Lambda example code
 
+- lambda Node.js 22.x
 - hospitality smart check in statistics example
 
 ```bash
